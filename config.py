@@ -1,7 +1,7 @@
 import os
 
-api_id =  28829496
-api_hash  = '8094341dbe5bd50090de8b12a01d04b8'
-bot_token =  '8121411999:AAHj-WZRHzzXrVFcohrAHuKrqVZ85E3GYqk'
-LOG =  -100253268913
+api_id =  27775431
+api_hash  = 'b70bb1d45a1d05236671d4cc615e40f9'
+bot_token =  ''
+LOG =  -1002446676469
 
